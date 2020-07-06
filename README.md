@@ -12,7 +12,7 @@ The equal sign defines the variable's value, so `PREFIX=+` , is like `const PREF
 It should look like: 
 
 ```
-CLIENT_TOKEN=MTg-this-IzNzU3OTA5NjA-is.not-DCeFB-a.real-r4DQlO-t0ken-qerT0
+DISCORD_TOKEN=MTg-this-IzNzU3OTA5NjA-is.not-DCeFB-a.real-r4DQlO-t0ken-qerT0
 OWNER=139412744439988224
 PREFIX=+
 ```
