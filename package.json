@@ -1,6 +1,6 @@
 {
-  "name": "arguments",
-  "version": "1.0.0",
+  "name": "your-bot-name",
+  "version": "0.1.0",
   "description": "Bluefox Example: Bot with argument parsing and multiple commands",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/eslachance/bf-arguments#readme",
   "dependencies": {
-    "discord.js": "^12.2.0",
+    "discord.js": "^12.3.0",
     "dotenv": "^8.2.0"
   }
 }
